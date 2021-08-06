@@ -4,7 +4,7 @@
 
 - 👨🏼‍💻 I'm currently studying at Yandex Praktikum on a Python-dev course!
 - 🎯 My goal is to turn my passion for software developement into professional career
-- 🧐 I’m looking for career opportunities as a junior Python developer
+- 🧐 I’m looking for job opportunities as a junior Python developer
 - 🌎 I speak Russian, Englsih, and Spanish 
 - ⚡ Fun fact: big fan of music, learned to play a guitar during the pandemic
 - 📍 Currently located: Saint-Petersburg, Russia
@@ -32,14 +32,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=inferno2f&show_icons=true&hide_border=true" />
-
-</details>
 
 [mailto]: <mailto:nikitinv91@gmail.com>
 [instagram]: https://instagram.com/nikitinv
