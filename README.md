@@ -1,6 +1,6 @@
 ### Hello there, I'm Vlad 👋
 
-## I'm a Husband, Traveler, and aspiring Python Developer 🙋‍♂️
+## Working my way up to become a fully fledged Python Developer 🙋‍♂️
 
 - 👨🏼‍💻 I'm currently studying at Yandex Praktikum on a Python-dev course!
 - 🎯 My goal is to turn my passion for software development into professional career
