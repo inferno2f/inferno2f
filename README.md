@@ -3,10 +3,10 @@
 ## I'm a Husband, Traveler, and aspiring Python Developer 🙋‍♂️
 
 - 👨🏼‍💻 I'm currently studying at Yandex Praktikum on a Python-dev course!
-- 🎯 My goal is to turn my passion for software developement into professional career
+- 🎯 My goal is to turn my passion for software development into professional career
 - 🧐 I’m looking for job opportunities as a junior Python developer
-- 🌎 I speak Russian, Englsih, and Spanish 
-- ⚡ Fun fact: big fan of music, learned to play a guitar during the pandemic
+- 🌎 I speak Russian, English, and Spanish 
+- ⚡ Fun fact: big fan of music, learned to play guitar during the pandemic
 - 📍 Currently located: Saint-Petersburg, Russia
 
 ### Connect with me:
