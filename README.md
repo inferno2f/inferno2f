@@ -1,11 +1,10 @@
 ### Hello there, I'm Vlad 👋
-
 ## Working my way up to become a fully fledged Python Developer 🙋‍♂️
 
 - 👨🏼‍💻 I'm currently studying at Yandex Praktikum on a Python-dev course!
-- 🎯 My goal is to turn my passion for software development into professional career
+- 🎯 My goal is to turn my passion for software development into a professional career
 - 🧐 I’m looking for job opportunities as a junior Python developer
-- 🌎 I speak Russian, English, and Spanish 
+- 🌎 I speak Russian, English, and Spanish
 - ⚡ Fun fact: big fan of music, learned to play guitar during the pandemic
 - 📍 Currently located: Saint-Petersburg, Russia
 
@@ -20,15 +19,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/django.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" />
+<img  align="left"  alt="Python"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" />
+<img  align="left"  alt="Django"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/django.svg" />
+<img  align="left"  alt="SQL"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" />
+<img  align="left"  alt="HTML5"  height="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" />
+<img  align="left"  alt="Bootstrap"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" />
+<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" />
+<img  align="left"  alt="Git"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" />
+<img  align="left"  alt="GitHub"  width="26px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img  align="left"  alt="Terminal"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" />
 
 <br />
 <br />
