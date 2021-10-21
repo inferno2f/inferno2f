@@ -1,11 +1,12 @@
-### Hello there, I'm Vlad 👋
-## Working my way up to become a fully fledged Python Developer 🙋‍♂️
 
-- 👨🏼‍💻 I'm currently studying at Yandex Praktikum on a Python-dev course!
-- 🎯 My goal is to turn my passion for software development into a professional career
-- 🧐 I’m looking for job opportunities as a junior Python developer
+### Hello there, I'm Vlad 👋
+## I'm a Python Developer 🙋‍♂️
+
+- 👨🏼‍💻 Currently studying at Yandex Practicum on a Python-dev course!
+- 🎯 I’m looking for job opportunities as a junior Python developer
+- 👾 Fast learner, creative thinker and problem solver
 - 🌎 I speak Russian, English, and Spanish
-- ⚡ Fun fact: big fan of music, learned to play guitar during the pandemic
+- 🧐 Senior Google Reseracher is my unofficial occupation (as per my current employer)
 - 📍 Currently located: Saint-Petersburg, Russia
 
 ### Connect with me:
@@ -19,19 +20,15 @@
 
 ### Languages and Tools:
 
-<img  align="left"  alt="Python"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" />
-<img  align="left"  alt="Django"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/django.svg" />
-<img  align="left"  alt="SQL"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" />
-<img  align="left"  alt="HTML5"  height="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" />
-<img  align="left"  alt="Bootstrap"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/bootstrap.svg" />
-<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" />
-<img  align="left"  alt="Git"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/git.svg" />
-<img  align="left"  alt="GitHub"  width="26px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img  align="left"  alt="Terminal"  width="26px"  src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/terminal.svg" />
-
-<br />
-<br />
-
+ - Python
+ - Django / Django Rest Framework
+ - FastAPI
+ - MySQL
+ - REST API
+ - Unit Testing
+ - Bash
+ - Git
+ - HTML
 
 [mailto]: <mailto:nikitinv91@gmail.com>
 [instagram]: https://instagram.com/nikitinv
