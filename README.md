@@ -23,7 +23,7 @@
  - Python
  - Django / Django Rest Framework
  - FastAPI
- - MySQL
+ - SQL (relational DBs)
  - REST API
  - Unit Testing
  - Bash
