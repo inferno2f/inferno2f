@@ -5,7 +5,7 @@
 - 👾 Fast learner, creative thinker and problem solver
 - 🌎 I speak Russian, English, and Spanish
 - 🧐 Senior Google Reseracher is my unofficial occupation (as per my current employer)
-- 📍 Currently located: Saint-Petersburg, Russia
+- 📍 Currently located: Orlando, FL
 
 ### Connect with me:
 
@@ -19,8 +19,9 @@
 
  - Python
  - Django / Django Rest Framework
- - FastAPI
+ - Flask
  - SQL (relational DBs)
+ - Docker
  - REST API
  - Unit Testing
  - Bash
