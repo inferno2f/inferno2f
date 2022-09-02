@@ -1,11 +1,11 @@
 
 ### Hello there, I'm Vlad 👋
 
-- 👨🏼‍💻 I'm a backend-developer intern at EPAM Systems
-- 👾 Fast learner, creative thinker and problem solver
+- 👨🏼‍💻 Backend developer at Yandex Practicum Studio
+- 👾 Python and Django framework is my favorite combo
 - 🌎 I speak Russian, English, and Spanish
-- 🧐 Senior Google Reseracher is my unofficial occupation (as per my current employer)
-- 📍 Currently located: Orlando, FL
+- 🧐 Senior Google Reseracher is my unofficial occupation
+- 📍 Currently located: Greenville, SC
 
 ### Connect with me:
 
